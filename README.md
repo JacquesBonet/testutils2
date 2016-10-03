@@ -1,4 +1,4 @@
-# HowTo - Tester un composant React
+# Comment tester un composant React avec TestUtils
 
 ## Table des matières
 
@@ -8,7 +8,7 @@
 
 
 ## Introduction
-Pour faciliter le test de composants React, Facebook fournit un utilitaire appelé `ReactTestUtils`.
+Pour faciliter le test de composants React, Facebook fournit un utilitaire appelé `TestUtils`.
 Il s'utilise en complément des frameworks de tests tel que Jasmine.
 
 Nous allons voir l'ensemble des problèmes que posent l'utilisation de cette librairie
